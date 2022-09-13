@@ -1,6 +1,6 @@
 URL heroku : https://tugas2-pbp-vinsen.herokuapp.com/katalog/
 
-![Bagan Request Client](https://myoctocat.com/assets/images/base-octocat.svg)
+![Bagan Request Client](https://drive.google.com/file/d/1CqoKKj1FeViLnRKLIyj8T-Q6RklKn4wx/view?usp=sharing)
 
 Virtual environment memiliki beberapa kegunaan yang penting dalam pemrograman django. Virtual env berperan sebagai wadah virtual dimana kita dapat meng-install dependency dan library tanpa merusak dependency yang ada di Sistem Operasi utama. Dengan begitu, kita dapat men-develop aplikasi atau software tanpa harus mengatur dan melakukan perubahan pada dependency dan library yang ada di Sistem Operasi utama. Dalam arti lain, virtual environment mencegah terjadinya konflik dependency dengan memisahkan dependency per peoyek django. Di sisi lain, developer tetap dapat menolak untuk menggunakan virtual environment dan proyek django tetap dapat digarap dan dijalankan. Akan tetapi, seiring dengan bertambahnya proyek dan kebutuhan dependency yang semakin beragam, developer yang tidak menggunakan virtual environment dituntut untuk dapat mengatur dependency sesuai dengan proyek yang digarap. Hal tersebut dikarenakan bahwa proyek dapat saja error karena menggunakan dependency dengan versi yang kurang tepat. Oleh karena itu, penggunaan virtual environment tetap merupakan best practice saat developer membangun sebuah proyek django.
 
