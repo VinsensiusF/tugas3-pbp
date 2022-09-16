@@ -6,8 +6,8 @@
             "watched": "Yes",
             "title": "Civil War",
             "rating": 5,
-            "release_date": "22-12-2022",
-            "review": "bagus banget"
+            "release_date": "25-04-2003",
+            "review": "kayak ada manis-manisnya dikit sih..."
         }
     },
     {
@@ -15,10 +15,10 @@
         "pk": 2,
         "fields": {
             "watched": "Yes",
-            "title": "Civil War",
-            "rating": 5,
-            "release_date": "22-12-2022",
-            "review": "bagus banget"
+            "title": "Sepidermen",
+            "rating": 4,
+            "release_date": "01-04-2003",
+            "review": "Bagus sih, tapi bagus kalo nontonnya sama kamu :D"
         }
     },
     {
@@ -26,21 +26,21 @@
         "pk": 3,
         "fields": {
             "watched": "Yes",
-            "title": "Civil War",
+            "title": "Dokter Streings",
             "rating": 5,
-            "release_date": "22-12-2022",
-            "review": "bagus banget"
+            "release_date": "18-10-2009",
+            "review": "Cikal bakal pesulap merah di marvel cinematic universe"
         }
     },
     {
         "model": "mywatchlist.mywatchlist",
         "pk": 4,
         "fields": {
-            "watched": "Yes",
-            "title": "Civil War",
-            "rating": 5,
-            "release_date": "22-12-2022",
-            "review": "bagus banget"
+            "watched": "Not Yet",
+            "title": "Serigalaverine",
+            "rating": 3,
+            "release_date": "17-08-1945",
+            "review": "Gatau dah bagus apa engga, kan belum ditonton sayang :D"
         }
     },
     {
@@ -48,32 +48,32 @@
         "pk": 5,
         "fields": {
             "watched": "Yes",
-            "title": "Civil War",
+            "title": "Pria Besi",
             "rating": 5,
-            "release_date": "22-12-2022",
-            "review": "bagus banget"
+            "release_date": "22-11-2014",
+            "review": "Transmover versi mini dan warnanya norak :P"
         }
     },
     {
         "model": "mywatchlist.mywatchlist",
         "pk": 6,
         "fields": {
-            "watched": "Yes",
-            "title": "Civil War",
+            "watched": "Not Yet",
+            "title": "Pelindung Galaksi",
             "rating": 5,
-            "release_date": "22-12-2022",
-            "review": "bagus banget"
+            "release_date": "29-10-2019",
+            "review": "Kan belom ditonton, jadi ga bisa kasih review lah :C"
         }
     },
     {
         "model": "mywatchlist.mywatchlist",
         "pk": 7,
         "fields": {
-            "watched": "Yes",
-            "title": "Civil War",
+            "watched": "Not Yet",
+            "title": "Pelindung Galaksi 2",
             "rating": 5,
-            "release_date": "22-12-2022",
-            "review": "bagus banget"
+            "release_date": "29-10-2020",
+            "review": "Yang pertama aja belom ditonton, apalagi yang kedua. Gimana sih?? :V"
         }
     },
     {
@@ -81,10 +81,10 @@
         "pk": 8,
         "fields": {
             "watched": "Yes",
-            "title": "Civil War",
+            "title": "Kapten Amerika",
             "rating": 5,
-            "release_date": "22-12-2022",
-            "review": "bagus banget"
+            "release_date": "21-07-2009",
+            "review": "Bolehlah, meskipun overrated karena banyak yang simp sama bang Evan..."
         }
     },
     {
@@ -92,10 +92,10 @@
         "pk": 9,
         "fields": {
             "watched": "Yes",
-            "title": "Civil War",
+            "title": "Hulek",
             "rating": 5,
-            "release_date": "22-12-2022",
-            "review": "bagus banget"
+            "release_date": "23-08-2017",
+            "review": "Pria hijau membabi buta. Udah gede, sangar, nakal, gatau diri lagi..."
         }
     },
     {
@@ -103,10 +103,10 @@
         "pk": 10,
         "fields": {
             "watched": "Yes",
-            "title": "Civil War",
+            "title": "Hulek 2",
             "rating": 5,
-            "release_date": "22-12-2022",
-            "review": "bagus banget"
+            "release_date": "27-12-2022",
+            "review": "Lanjutan yang pertama. Masih bengis, sangat, nakal dan tetap suka membabi buta"
         }
     }
 ]
