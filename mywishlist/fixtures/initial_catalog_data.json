@@ -1,0 +1,112 @@
+[
+    {
+        "model": "katalog.catalogitem",
+        "pk": 1,
+        "fields": {
+            "watched": "Yes",
+            "title": "Civil War",
+            "rating": 5,
+            "release_date": "22-12-2022",
+            "review": "bagus banget"
+        }
+    },
+    {
+        "model": "katalog.catalogitem",
+        "pk": 2,
+        "fields": {
+            "watched": "Yes",
+            "title": "Civil War",
+            "rating": 5,
+            "release_date": "22-12-2022",
+            "review": "bagus banget"
+        }
+    },
+    {
+        "model": "katalog.catalogitem",
+        "pk": 3,
+        "fields": {
+            "watched": "Yes",
+            "title": "Civil War",
+            "rating": 5,
+            "release_date": "22-12-2022",
+            "review": "bagus banget"
+        }
+    },
+    {
+        "model": "katalog.catalogitem",
+        "pk": 4,
+        "fields": {
+            "watched": "Yes",
+            "title": "Civil War",
+            "rating": 5,
+            "release_date": "22-12-2022",
+            "review": "bagus banget"
+        }
+    },
+    {
+        "model": "katalog.catalogitem",
+        "pk": 5,
+        "fields": {
+            "watched": "Yes",
+            "title": "Civil War",
+            "rating": 5,
+            "release_date": "22-12-2022",
+            "review": "bagus banget"
+        }
+    },
+    {
+        "model": "katalog.catalogitem",
+        "pk": 6,
+        "fields": {
+            "watched": "Yes",
+            "title": "Civil War",
+            "rating": 5,
+            "release_date": "22-12-2022",
+            "review": "bagus banget"
+        }
+    },
+    {
+        "model": "katalog.catalogitem",
+        "pk": 7,
+        "fields": {
+            "watched": "Yes",
+            "title": "Civil War",
+            "rating": 5,
+            "release_date": "22-12-2022",
+            "review": "bagus banget"
+        }
+    },
+    {
+        "model": "katalog.catalogitem",
+        "pk": 8,
+        "fields": {
+            "watched": "Yes",
+            "title": "Civil War",
+            "rating": 5,
+            "release_date": "22-12-2022",
+            "review": "bagus banget"
+        }
+    },
+    {
+        "model": "katalog.catalogitem",
+        "pk": 9,
+        "fields": {
+            "watched": "Yes",
+            "title": "Civil War",
+            "rating": 5,
+            "release_date": "22-12-2022",
+            "review": "bagus banget"
+        }
+    },
+    {
+        "model": "katalog.catalogitem",
+        "pk": 10,
+        "fields": {
+            "watched": "Yes",
+            "title": "Civil War",
+            "rating": 5,
+            "release_date": "22-12-2022",
+            "review": "bagus banget"
+        }
+    }
+]
