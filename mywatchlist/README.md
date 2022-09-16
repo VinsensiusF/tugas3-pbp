@@ -2,6 +2,13 @@ Link heroku untuk HTML : https://tugas3-pbp-vinsen.herokuapp.com/mywatchlist/htm
 Link heroku untuk JSON : https://tugas3-pbp-vinsen.herokuapp.com/mywatchlist/json/
 Link heroku untuk XML : https://tugas3-pbp-vinsen.herokuapp.com/mywatchlist/xml/
 
+![Bagan Request Client](https://drive.google.com/uc?export=view&id=1wm0xDZwdzt7dmaiXx_Z_7drP4N1_3HM-)
+![Bagan Request Client](https://drive.google.com/uc?export=view&id=1v1YZBoOiJ5aFvvTSBJKUvNUtz7U1bRU5)
+![Bagan Request Client](https://drive.google.com/uc?export=view&id=1IYGc_DBSjXbSzfvnlLvV8qdxMB9yMNhk)
+https://drive.google.com/uc?export=view&id=1wm0xDZwdzt7dmaiXx_Z_7drP4N1_3HM-
+https://drive.google.com/uc?export=view&id=1v1YZBoOiJ5aFvvTSBJKUvNUtz7U1bRU5
+https://drive.google.com/uc?export=view&id=1IYGc_DBSjXbSzfvnlLvV8qdxMB9yMNhk
+
 JSON merupakan 'Java Script Object Notation' yang digunakan untuk merepresentasikan object. Sesuai dengan namanya, JSON memiliki basis bahasa pemrograman yaitu, Java Script. Sementara itu, XML merupakan 'Extensible Markup Language' yang menggunakan struktur tag/penanda untuk merepresentasikan data. XML tersendiri berbasis pada SGML (Standard Generalized Markup Language) sehingga tidak terpaku pada bahasa pemrograman tertentu. Secara umum, JSON memiliki tingkat readbility yang lebih baik dari pada XML (JSON lebih mudah dibaca). Namun, tingkat keamanan data yang dikirim melalui JSON lebih rentan dari pada melalui XML. Selain itu, encoding yang digunakan pada JSON adalah UTF-8 dimana XML dapat menggunakan encoding lainnya. Selain itu, dokumentasi pada XML lebih mudah karena XML dapat memproses comment. Hal itu berbanding terbalik dengan JSON yang tidak memproses comment sehingga dokumentasi menjadi lebih sulit dilakukan.
 
 HTML merupakan 'Hyper Text Markup Language' yang melakukan pemberian tag pada data. Penggunaan HTML sebenarnya lebih simple dan lebih mudah dari pada XML dan JSON. Akan tetapi, HTML memiliki kekurangan pada bagian struktur data yang belum ditambahkan secara utuh oleh SGML. Hal inilah yang melatar belakangi pembentukan XMl sebagai bentuk update dan penambahan fitur dari HTML. Oleh karena itu, untuk sekarang, penggunaan XML difokuskan untuk mengirim dan menerima data, sedangkan HTML difokuskan untuk melakukan formatting dan menampilkan data pada saat pemanggilan fungsi. Di sisi lain, JSON merupakan sebuah markup language yang pembentukannya beiringan dengan penggunaan Java Script pada web development. Dengan begitu, diperlukannya urgensi untuk dapat melakukan strukturisasi, pengiriman, dan penerimaan data dengan bahasa yang erat kaitannya dengan Java Script.  Hal itulah yang menjadi alasan mengapa JSON menjadi markup language yang paling banyak digunakan saat ini.
